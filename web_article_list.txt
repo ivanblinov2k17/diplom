@@ -1,0 +1,4 @@
+Хабр про схему шамира - https://habr.com/ru/post/431392/
+medium intro - https://medium.com/keylesstech/a-beginners-guide-to-shamir-s-secret-sharing-e864efbf3648
+лекция в berkley - https://people.eecs.berkeley.edu/~daw/teaching/cs276-s04/22.pdf
+
