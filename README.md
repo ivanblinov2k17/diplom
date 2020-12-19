@@ -4,6 +4,8 @@
 
 ### An image secret sharing method based on Shamir Secret Sharing
 
+Method based on Naor Shamir 1995
+
 ### Long Article with theorems
 
 ### Multi Secret Image Rajput
@@ -11,7 +13,13 @@
 ### Shamir's article
 
 2 page article from the author of algorithm
-Goog for making a reference
+Basic principles of sharing secret
+
+### Naor Shamir 1995
+
+Sharing secret applied to images
+
+---
 
 ## List of web articles
 
