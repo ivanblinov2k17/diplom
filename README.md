@@ -2,13 +2,20 @@
 
 ## List of scientific articles
 
-### An image secret sharing method based on Shamir Secret Sharing
+### An image secret sharing method based on Shamir Secret Sharing 2018
 
-Method based on Naor Shamir 1995
+Method based on Naor Shamir 1995, proposes a method without growing file size and
+losses in quality or contrast
 
 ### Long Article with theorems
 
+Probably not really connected to our theme, but some useful references ther
+
 ### Multi Secret Image Rajput
+
+Sometimes (n, n+1) MSIS provide partial information about image
+with k < n shares, provides mehod to disable this
+Also uses modular arithmetics to reduce time spent on decrypting
 
 ### Shamir's article
 
@@ -18,6 +25,13 @@ Basic principles of sharing secret
 ### Naor Shamir 1995
 
 Sharing secret applied to images
+Problems of proposed scheme: 1 pixel of secret image is mapped into several
+pixels in shared transparencies, so there is loss in contrast and resolution, also
+image size increased
+
+### A-k-n threshold
+
+Naor Shamir's image algorithm without expansion to multiple pixels, but with loss in contrast
 
 ---
 
