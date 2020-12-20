@@ -33,6 +33,17 @@ image size increased
 
 Naor Shamir's image algorithm without expansion to multiple pixels, but with loss in contrast
 
+### ISSS_Bai_Biswas
+
+Matrix projection combined with shamir's iss, decrypting in real time (but no info provided about
+possibility of exposing secret in less than k shares)
+
+### Reversible Iss
+
+Cool article about hiding info in noise of another images and reconstructing original image
+
+###
+
 ---
 
 ## List of web articles
