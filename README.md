@@ -42,7 +42,13 @@ possibility of exposing secret in less than k shares)
 
 Cool article about hiding info in noise of another images and reconstructing original image
 
-###
+### Image Cryptography Survey
+
+Review of various methods
+
+### Image Encryption: A Communication Perspective
+
+Big fat book about image encrypting
 
 ---
 
